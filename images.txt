@@ -6,3 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 lobehub/lobe-chat
 ddsderek/easyimage
+neosmemo/memos
+vaultwarden/server
+wiznote/wizserver
