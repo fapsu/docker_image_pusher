@@ -9,3 +9,4 @@ ddsderek/easyimage
 neosmemo/memos
 vaultwarden/server
 wiznote/wizserver
+rustdesk/rustdesk-server
