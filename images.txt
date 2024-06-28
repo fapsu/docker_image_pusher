@@ -11,3 +11,4 @@ vaultwarden/server
 wiznote/wizserver
 rustdesk/rustdesk-server
 machines/filestash
+xiaoyaliu/alist:latest
