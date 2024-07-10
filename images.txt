@@ -13,3 +13,5 @@ rustdesk/rustdesk-server
 machines/filestash
 xiaoyaliu/alist:latest
 photoprism/photoprism:latest
+mariadb:10.11
+containrrr/watchtower:latest
