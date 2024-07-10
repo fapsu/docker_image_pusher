@@ -12,3 +12,4 @@ wiznote/wizserver
 rustdesk/rustdesk-server
 machines/filestash
 xiaoyaliu/alist:latest
+photoprism/photoprism:latest
