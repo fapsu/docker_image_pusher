@@ -16,3 +16,5 @@ photoprism/photoprism:latest
 mariadb:10.11
 containrrr/watchtower:latest
 syncthing/syncthing:latest
+syncthing/discosrv:latest
+syncthing/relaysrv:latest
