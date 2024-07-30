@@ -18,3 +18,4 @@ containrrr/watchtower:latest
 syncthing/syncthing:latest
 syncthing/discosrv:latest
 syncthing/relaysrv:latest
+louislam/uptime-kuma:latest
