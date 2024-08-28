@@ -20,6 +20,6 @@ syncthing/discosrv:latest
 syncthing/relaysrv:latest
 louislam/uptime-kuma:latest
 antonyleons/ward:latest
-serverstatus_server
+serverstatus_server:latest
 lissy93/dashy:latest
 glanceapp/glance:latest
