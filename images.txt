@@ -23,4 +23,4 @@ antonyleons/ward:latest
 cppla/serverstatus:latest
 lissy93/dashy:latest
 glanceapp/glance:latest
-library/debian
+debian:buster
