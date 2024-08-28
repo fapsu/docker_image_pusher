@@ -19,3 +19,6 @@ syncthing/syncthing:latest
 syncthing/discosrv:latest
 syncthing/relaysrv:latest
 louislam/uptime-kuma:latest
+ward:latest
+lissy93/dashy:latest
+glanceapp/glance:latest
