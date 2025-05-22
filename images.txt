@@ -4,24 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-lobehub/lobe-chat
-ddsderek/easyimage
-neosmemo/memos
 vaultwarden/server
-wiznote/wizserver
-rustdesk/rustdesk-server
-machines/filestash
-xiaoyaliu/alist:latest
-photoprism/photoprism:latest
-mariadb:10.11
-containrrr/watchtower:latest
-syncthing/syncthing:latest
-syncthing/discosrv:latest
-syncthing/relaysrv:latest
-louislam/uptime-kuma:latest
-antonyleons/ward:latest
-cppla/serverstatus:latest
-lissy93/dashy:latest
-glanceapp/glance:latest
-lissy93/dashy:latest
-gitea/gitea:latest
+
